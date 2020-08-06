@@ -1,0 +1,4 @@
+C:\Users\My Name>python demo_file_open.py 
+Hello! Welcome to demofile.txt
+This file is for testing purposes.
+Good Luck!
