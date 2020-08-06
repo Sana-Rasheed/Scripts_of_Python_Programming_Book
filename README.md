@@ -1,2 +1,8 @@
-# Scripts_of_Python_Programming_Book
-Python scripts make available for book readers for easy learning and coding.
+# Scripts of Python Programming Book
+Python scripts are available for book readers for easy learning and coding.
+Clone or download as needed.
+
+## Have a Happy Coding and Learning!
+
+Regards,
+Sana Rasheed
