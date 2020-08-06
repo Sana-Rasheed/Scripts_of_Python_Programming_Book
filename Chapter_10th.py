@@ -3,7 +3,7 @@
 f = open("demofile.txt", "r")
 print(f.read())
 
-# OUTPUT
+# Output
 # C:\Users\My Name>python demo_file_open.py 
 # Hello! Welcome to demofile.txt
 # This file is for testing purposes.
@@ -13,7 +13,7 @@ print(f.read())
 f = open("demofile.txt", "r")
 print(f.read(5))
 
-# OUTPUT
+# Output
 # C:\Users\My Name>python demo_file_open2.py
 # Hello
 
@@ -21,7 +21,7 @@ print(f.read(5))
 f = open("demofile.txt", "r")
 print(f.readline())
 
-# OUTPUT
+# Output
 # C:\Users\My Name>python demo_file_readline.py
 # Hello! Welcome to demofile.txt
 
@@ -31,7 +31,7 @@ f = open("demofile.txt", "r")
 print(f.readline())
 print(f.readline())
 
-# OUTPUT
+# Output
 # C:\Users\My Name>python demo_file_readline2.py
 # Hello! Welcome to demofile.txt
 # This file is for testing purposes.
@@ -43,7 +43,7 @@ for x in f:
   print(x)
 
 
-# OUTPUT
+# Output
 # C:\Users\My Name>python demo_file_readline3.py
 # Hello! Welcome to demofile.txt
 # This file is for testing purposes.
@@ -55,7 +55,7 @@ f = open("demofile.txt", "r")
 print(f.readline())
 f.close()
 
-# OUTPUT
+# Output
 # C:\Users\My Name>python demo_file_close.py
 # Hello! Welcome to demofile.txt
 
@@ -70,7 +70,7 @@ f = open("demofile2.txt", "r")
 print(f.read())                    
 
 
-# OUTPUT
+# Output
 # C:\Users\My Name>python demo_file_append.py
 # Hello! Welcome to demofile2.txt
 # This file is for testing purposes.
@@ -87,7 +87,7 @@ f = open("demofile3.txt", "r")
 print(f.read())                
 
 
-# OUTPUT
+# Output
 # C:\Users\My Name>python demo_file_write.py
 #  I have deleted the content!
 

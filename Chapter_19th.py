@@ -3,19 +3,19 @@
 import numpy as np
 mat = np.array([[1,2,3], [4,5,6], [7,8,9]])
 print('The shape of mat is:', mat.shape) 
-#Output: The shape of mat is: (3, 3)
+# Output: The shape of mat is: (3, 3)
 
 # Example 2
 # It can be reshaped to any shape that is consistent with the data size
 new_mat = mat.reshape(1,9)
 print('The shape of new_mat is:', new_mat.shape)
-#Output: The shape of new_mat is: (1, 9)
+# Output: The shape of new_mat is: (1, 9)
 
 # Example 3
 # you can try transposing it as well.                                 
 trans_new_mat = new_mat.T
 print('The transposed shape of new_mat is:', trans_new_mat.shape)
-#Output: The transposed shape of new_mat is: (9, 1)
+# Output: The transposed shape of new_mat is: (9, 1)
 
 # Example 4
 # you can create diagonal matrices, identity matrices
@@ -36,9 +36,9 @@ rands_2d = np.random.rand(10, 10) # creates 10x10 matrix with random numbers.
 my_array = np.array([1,3,5,7,23,6,2,31,5]) 
 # you can find min and max and min as well as the index of max number or min number                              
 print('The max is {} at index {}'.format(my_array.max(), my_array.argmax()))                    
-#Output:The max is 31 at index 7
+# Output:The max is 31 at index 7
 print('The min is {} at index {}'.format(my_array.min(), my_array.argmin()))
-#Output:  The min is 1 at index 0
+# Output:  The min is 1 at index 0
 
 # Example 8
 import time 
@@ -50,7 +50,7 @@ start = time.time()
 dot_mul = my_mat.dot(another_mat)
 end = time.time()
 print('It took {} seconds to calculate dot product!'.format(round(end-start, 4)))
-#Output: It took 11.0579 seconds to calculate dot product!
+# Output: It took 11.0579 seconds to calculate dot product!
 
 start = time.time()
 prod = my_mat * another_mat
