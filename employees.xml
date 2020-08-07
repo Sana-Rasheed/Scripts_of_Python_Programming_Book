@@ -1,0 +1,35 @@
+<company>
+  <employee>
+    <name>Negan</name>
+    <age>40</age>
+    <email>imnegan@twd.com</email>
+    <address>
+      <city>Chicago</city>
+      <state>Illinois</state>
+      <pin>35245</pin>
+      <landmark>Near hill top</landmark>
+    </address>
+  </employee>
+  <employee>
+    <name>Louis</name>
+    <age>24</age>
+    <email>talktolouis@twd.com</email>
+    <address>
+      <city>Ashburn</city>
+      <state>Virginia</state>
+      <pin>125445</pin>
+      <landmark>Near hill top</landmark>
+    </address>
+  </employee>
+  <employee>
+    <name>Chan</name>
+    <age>33</age>
+    <email>chantalks@twd.com</email>
+    <address>
+      <city>Little Rock</city>
+      <state>Arkansas</state>
+      <pin>201301</pin>
+      <landmark>Near hill top</landmark>
+    </address>
+  </employee>
+</company>
