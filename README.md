@@ -1,4 +1,4 @@
-# Scripts of Python Programming Book
+# Python Programming Book
 
 ## Dear Readers,
 
@@ -7,7 +7,7 @@ Thank you very much for reading my book. I hope, it will give you a starting poi
 Python scripts are available for book readers for easy learning and coding. Chapter-wise code examples have shared with related data files.
 
 
-## Have a Happy Coding and Learning!
+## Have a Happy Coding!
 
 
 ### Regards,
