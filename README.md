@@ -1,12 +1,15 @@
 # Scripts of Python Programming Book
 
-Python scripts are available for book readers for easy learning and coding. All examples code and data files have been shared.
-Clone or download repository as needed.
+## Dear Readers,
+
+Thank you very much for reading my book. I hope, it will give you a starting point to learn and excel in programming.
+
+Python scripts are available for book readers for easy learning and coding. Chapter-wise code examples have shared with related data files.
 
 
 ## Have a Happy Coding and Learning!
 
 
-Regards,
+### Regards,
 
-Sana Rasheed
+### Sana Rasheed
